@@ -62,7 +62,7 @@ As someone who tries to use data analytics in my everyday life, using it to trac
 
 https://public.tableau.com:9443/views/PersonalFinanceDashboardforDigitalBanksandE-Wallets/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-<img width="639" height="872" alt="Screenshot 2026-11-23 at 12 46 55 AM" src="https://github.com/user-attachments/assets/8a205484-88e4-4610-997f-eb5e70e53139" />
+<img width="650" height="864" alt="tableau-dashboard" src="https://github.com/user-attachments/assets/98cf7bbe-54c4-4aab-aad7-588dce0ac835" />
 
 
 ## Key Findings
